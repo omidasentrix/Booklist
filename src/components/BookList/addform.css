@@ -1,0 +1,46 @@
+.form-group{
+
+    text-align: center;
+    margin: 5px 10px;
+
+}
+.form-group label{
+    font-size: 1.5em;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.form-group input{
+    width: 500px;
+    height: 32px;
+    border-radius: 15px;
+    border: none;
+    margin-top: 15px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.btn-submit{
+    padding: 15px 130px;
+    margin: 20px 27%;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    background-color: rgb(240, 181, 70);
+    color: aliceblue;
+    font-size: 1rem;
+    transition: all 0.5s;
+}
+.btn-submit:hover{
+    box-shadow: 0 0 15px burlywood;
+}
+.form-group input:hover{
+    outline-color: rgb(236, 172, 52);
+}
+.table-up th{
+    font-size: 2rem;
+    background-color: rgb(30, 23, 23);
+    border-radius: 10px;
+    padding: 10px 76px;
+    color:rgb(236, 172, 52);
+    box-shadow: 0 0 14px #fff;
+}

@@ -1,0 +1,13 @@
+.items{
+    background-color: rgb(51, 51, 51);
+    margin-left: 10px;
+    border-radius: 9px;
+    overflow: hidden;
+
+}
+
+.items th{
+    font-size: 2rem;
+    color: aliceblue;
+    padding: 5px;    
+}
